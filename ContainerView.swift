@@ -248,7 +248,6 @@ struct CongregationView: View {
     }
 }
 
-// Preview for testing
 struct ContainerView_Previews: PreviewProvider {
     static var previews: some View {
         ContainerView()
